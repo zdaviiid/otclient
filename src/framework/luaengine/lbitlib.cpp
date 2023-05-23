@@ -33,7 +33,7 @@
 #define LUA_LIB
 
 extern "C" {
-#include <lua.h>
+#include <luajit.h>
 #include <lauxlib.h>
 }
 
