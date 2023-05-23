@@ -24,7 +24,7 @@
 #include "luaobject.h"
 
 #include <framework/core/resourcemanager.h>
-#include <luajit.hpp>
+#include <lua.hpp>
 
 #include "lbitlib.h"
 
