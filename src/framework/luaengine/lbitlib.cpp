@@ -34,7 +34,7 @@
 
 extern "C" {
 #include "lua.h"
-#include <lauxlib.h>
+#include "lauxlib.h"
 }
 
 /* ----- adapted from lua-5.2.0 luaconf.h: ----- */
